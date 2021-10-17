@@ -1,0 +1,19 @@
+.content {
+  margin: 3rem auto;
+  margin-top: 18%;
+
+  width: 95%;
+  max-width: 25rem;
+  border-radius: 6px;
+  background-color: #0e0e10;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  /* padding: 1rem; */
+  text-align: left;
+  color: white;
+}
+
+.policyTitle {
+  text-align: center;
+  padding-top: 1rem;
+}
+
